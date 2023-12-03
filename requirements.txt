@@ -1,0 +1,8 @@
+tensorflow== 2.15.0
+numpy== 1.23.5
+scipy== 1.11.2
+wfdb== 4.1.2
+matplotlib== 3.7.0
+keras== 2.15.0
+sklearn== 1.2.1
+prettytable== 3.9.0
